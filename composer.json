@@ -1,0 +1,14 @@
+{
+    "name": "koolreport/futurelabs",
+    "version":"0.9",
+    "description": "Enhanced widgets, the first one is for extend standard table with aggregates on groups",
+    "keywords": ["PHP","Reporting Tools","Data Report","Table"],
+    "homepage": "https://www.flabcorp.com",
+    "type": "library",
+    "license": "https://www.koolreport.com/license#regular-license",
+    "authors": [
+        {
+            "name": "Carlos Arana Reategui"
+        }
+    ]
+}
